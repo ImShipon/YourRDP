@@ -28,7 +28,9 @@ This repository allows you to create a temporary, free Windows Virtual Machine (
 3. Click the **New repository secret** button.
 4. Save with the following information:
    - **Name:** `TAILSCALE_AUTH_KEY`
-   - ```TAILSCALE_AUTH_KEY```
+```Copy
+TAILSCALE_AUTH_KEY
+```
    - **Secret:** (Paste your Tailscale Auth Key copied in Step 1 here)
 5. Click on **Add secret**.
 
